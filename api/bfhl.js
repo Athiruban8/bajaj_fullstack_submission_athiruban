@@ -41,9 +41,9 @@ module.exports = async (req, res) => {
 
     const response = {
       is_success: true,
-      user_id: "john_doe_17091999",
-      email: "john@xyz.com",
-      roll_number: "ABCD123",
+      user_id: "athiruban_p_08102004",
+      email: "athiruban.p@gmail.com",
+      roll_number: "22BCE1300",
       odd_numbers: processedData.oddNumbers,
       even_numbers: processedData.evenNumbers,
       alphabets: processedData.alphabets,
