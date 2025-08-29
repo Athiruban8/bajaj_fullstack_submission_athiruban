@@ -1,7 +1,6 @@
 const express = require("express");
 const router = express.Router();
 const { processData } = require("../utils/dataProcessor");
-const { generateUserId } = require("../utils/userUtils");
 
 // POST /bfhl
 router.post("/", async (req, res) => {
